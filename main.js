@@ -1,4 +1,4 @@
-let countDownDate = new Date("Nov 21 2021 20:00:00").getTime();
+let countDownDate = new Date("Dec 31 2021 23:59:59").getTime();
 let countDown = setInterval(() => {
   let dateNow = new Date().getTime();
   let dateDeff = countDownDate - dateNow;

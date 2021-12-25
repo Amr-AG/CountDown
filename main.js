@@ -33,4 +33,4 @@ min.style.cssText =
 sec.style.cssText =
   "margin:0 20px; background-color:#bb5d5d; color:white; height:120px; width:200px; display:flex; align-items:center; justify-content:center; text-align:center; font-size:30px; border-radius:10px;";
 document.body.style.cssText =
-  "background-image:url("CountDown/2022.jpg"); background-size:cover; background-position: center; font-family: 'Zen Kaku Gothic Antique', sans-serif;";
+  "background-color:black; font-family: 'Zen Kaku Gothic Antique', sans-serif;";
